@@ -1,0 +1,7 @@
+{
+"name": "Teal theme by MAQ Software",
+"dataColors": [ "#025460", "#17626D", "#33747E", "#4F868F", "#6C99A0", "#88ABB0", "#A4BDC1", "#C0D0D2", "#DCE2E3"],
+"background":"#FFFFFF",
+"foreground": "#1b7eac",
+"tableAccent":"#5cbae5"
+}
